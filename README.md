@@ -1,3 +1,8 @@
+
+The code can be ran from cd src python main.py ____ Added /user/<id> GET request Added /hoas, /hoa/<id> GET requests Added presenter/hoa.py  
+
+
+
 **Inspect HOA backend challenge**
 
 This is a simple flask repository with some endpoints and requires 
